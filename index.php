@@ -8,5 +8,9 @@
 <body>
     <h1>Belajar Git Remote</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint repudiandae id facere dicta nisi nostrum voluptates laudantium doloribus eius alias iste, sequi nobis voluptatum quibusdam saepe culpa consequuntur debitis! Officiis.</p>
+    <ul>
+        <li>lorem</li>
+        <li>ipsum</li>
+    </ul>
 </body>
 </html>
